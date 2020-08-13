@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>Atree</OriginalElement>
+  <nodes>
+    <node x="471.0" y="279.0">Atree</node>
+    <node x="175.0" y="290.0">Huffman</node>
+    <node x="141.5" y="0.0">flexibleStructure</node>
+    <node x="549.0" y="103.00000000000006">Mergesort</node>
+    <node x="0.0" y="411.0">flexibleStructure.Node</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Huffman" target="flexibleStructure">
+      <point x="0.0" y="-180.5" />
+      <point x="0.0" y="114.5" />
+    </edge>
+    <edge source="flexibleStructure.Node" target="flexibleStructure">
+      <point x="0.0" y="-59.5" />
+      <point x="77.5" y="254.0" />
+      <point x="198.66666666666669" y="254.0" />
+      <point x="-114.33333333333331" y="114.5" />
+    </edge>
+    <edge source="Atree" target="flexibleStructure">
+      <point x="0.0" y="-191.5" />
+      <point x="591.0" y="254.0" />
+      <point x="427.3333333333333" y="254.0" />
+      <point x="114.33333333333331" y="114.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.5000000000000001" x="228.0000000000001" y="493.0" />
+  <SelectedNodes>
+    <node>Mergesort</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Constructors</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
